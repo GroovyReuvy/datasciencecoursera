@@ -1,1 +1,2 @@
-Hello World.  This is my first GitHub repo.
+# datasciencecoursera
+Repository for the data science coursera course.
